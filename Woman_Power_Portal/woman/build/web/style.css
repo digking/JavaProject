@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 20, 2015, 1:11:12 AM
+    Author     : RK Pandey
+*/
+
+.backgroundformat
+    
+
+{
+    
+    
+    background-image: url('images/background3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ 
+    background-position: center;
+}
+
+.linkcolor
+{
+    color: yellow;
+    
+    font-family: monospace;
+    
+}
+
+.bannerHeading
+{
+    font-size: 40px;
+    
+    
+}
